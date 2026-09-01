@@ -50,3 +50,7 @@ data/processed/*
 # Resultados
 results/*
 !results/.gitkeep
+
+# Libros (archivos grandes, no versionados)
+Libros/
+*.pdf
